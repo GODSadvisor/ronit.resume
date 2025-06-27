@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -32,7 +32,7 @@
     </li>
     <br>
     <li>
-      <strong><a href="https://www.instagram.com/pratyagra.india?igsh=MTQ3dTJyaWhydHduNA%3D%3D">Pratyagra India</a></strong><br>
+      <strong><a href="https://www.instagram.com/pratyagra.india?igsh=MTQ3dTJyaWhydHduNA%3D%3D">Pratyagra India</a></strong><b
       <em>Online Marketing Experience</em><br>
       <ul>
         <li>Built and managed a team across various roles</li>
@@ -48,7 +48,7 @@
   <h2>Education</h2>
   <ul>
     <li><strong>Bachelor of Computer Science (B.Sc. CS), Batch 2022–2025</strong><br>
-      <a href="https://www.mgmgyp.org/">DR. G.Y. Pathrikar College of Computer Science and Information Technology, MGM University, Sambhajinagar</a>
+      <a href="https://www.mgmgyp.org/">DR. G.Y. Pathrikar College of Computer Science and Information Technology, MGM Univers
     </li>
     <br>
     <li><strong>HSC (12th Grade) – Science Stream</strong><br>
@@ -81,3 +81,6 @@
 
 </body>
 </html>
+ 
+  
+ 
